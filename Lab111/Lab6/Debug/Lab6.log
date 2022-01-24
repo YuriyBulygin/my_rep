@@ -1,0 +1,6 @@
+﻿  Lab6.cpp
+E:\С++\Lab6\Lab6\Lab6.cpp(13,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\С++\Lab6\Lab6\Lab6.cpp(14,20): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+E:\С++\Lab6\Lab6\Lab6.cpp(18,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+E:\С++\Lab6\Lab6\Lab6.cpp(16): warning C4715: summa: значение возвращается не при всех путях выполнения
+  Lab6.vcxproj -> E:\С++\Lab6\Debug\Lab6.exe

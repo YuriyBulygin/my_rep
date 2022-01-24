@@ -1,0 +1,4 @@
+﻿  Lab5.cpp
+C:\Users\user1\source\repos\Lab5\Lab5\Lab5.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\user1\source\repos\Lab5\Lab5\Lab5.cpp(13,48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Lab5.vcxproj -> C:\Users\user1\source\repos\Lab5\Debug\Lab5.exe
